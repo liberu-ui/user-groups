@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/user-groups",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Basic user groups package",
   "main": "src/bulma/pages/userGroups/Index.vue",
   "scripts": {
