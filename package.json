@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/user-groups.git"
+    "url": "git+https://github.com/liberu-ui/user-groups.git"
   },
   "keywords": [
     "user-groups",
@@ -17,9 +17,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/user-groups/issues"
+    "url": "https://github.com/liberu-ui/user-groups/issues"
   },
-  "homepage": "https://github.com/enso-ui/user-groups#readme",
+  "homepage": "https://github.com/liberu-ui/user-groups#readme",
   "dependencies": {
     "@liberu-ui/forms": "^3.0",
     "@liberu-ui/tables": "^3.0",
